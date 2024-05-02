@@ -8,3 +8,5 @@
 깔깔
 
 local 수정
+깔깔 
+remote 수정
